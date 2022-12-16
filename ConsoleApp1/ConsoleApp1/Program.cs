@@ -9,9 +9,10 @@ namespace TestProject1
         //Entry Point Method
         static void Main(string[] args)
         {
+            string name = "Bad boy";
             //start here//
 
-            Console.WriteLine("Hello World");
+            Console.WriteLine(name);
         }
     }
 }
