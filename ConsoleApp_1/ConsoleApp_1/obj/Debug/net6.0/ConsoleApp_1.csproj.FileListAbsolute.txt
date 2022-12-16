@@ -1,0 +1,15 @@
+E:\L3\L3S2\C#\Project1\C--.NET-Teat-Application\ConsoleApp_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.exe
+E:\L3\L3S2\C#\Project1\C--.NET-Teat-Application\ConsoleApp_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.deps.json
+E:\L3\L3S2\C#\Project1\C--.NET-Teat-Application\ConsoleApp_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.runtimeconfig.json
+E:\L3\L3S2\C#\Project1\C--.NET-Teat-Application\ConsoleApp_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.dll
+E:\L3\L3S2\C#\Project1\C--.NET-Teat-Application\ConsoleApp_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.pdb
+E:\L3\L3S2\C#\Project1\C--.NET-Teat-Application\ConsoleApp_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.csproj.AssemblyReference.cache
+E:\L3\L3S2\C#\Project1\C--.NET-Teat-Application\ConsoleApp_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\L3\L3S2\C#\Project1\C--.NET-Teat-Application\ConsoleApp_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.AssemblyInfoInputs.cache
+E:\L3\L3S2\C#\Project1\C--.NET-Teat-Application\ConsoleApp_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.AssemblyInfo.cs
+E:\L3\L3S2\C#\Project1\C--.NET-Teat-Application\ConsoleApp_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.csproj.CoreCompileInputs.cache
+E:\L3\L3S2\C#\Project1\C--.NET-Teat-Application\ConsoleApp_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.dll
+E:\L3\L3S2\C#\Project1\C--.NET-Teat-Application\ConsoleApp_1\ConsoleApp_1\obj\Debug\net6.0\refint\ConsoleApp_1.dll
+E:\L3\L3S2\C#\Project1\C--.NET-Teat-Application\ConsoleApp_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.pdb
+E:\L3\L3S2\C#\Project1\C--.NET-Teat-Application\ConsoleApp_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.genruntimeconfig.cache
+E:\L3\L3S2\C#\Project1\C--.NET-Teat-Application\ConsoleApp_1\ConsoleApp_1\obj\Debug\net6.0\ref\ConsoleApp_1.dll
